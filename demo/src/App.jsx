@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <Text name="Akbar" />
+      <p>paragraph</p>
     </>
   )
 }
